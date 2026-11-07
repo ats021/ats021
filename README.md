@@ -1,16 +1,18 @@
-## Hi there 👋
+# Yanlin Wang
 
-<!--
-**ats021/ats021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I am a Master's student at Tsinghua Shenzhen International Graduate School, Tsinghua University, China.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current research interests include:
+
+- Large Language Models (LLMs)
+- AI Agents and Agentic Systems
+- LLM Post-training and Reinforcement Learning
+
+### Academic Information
+
+- **Name:** Yanlin Wang
+- **Affiliation:** Tsinghua University
+- **School:** Tsinghua Shenzhen International Graduate School
+- **Email:** wangyanlin26@mails.tsinghua.edu.cn
