@@ -6,8 +6,8 @@ I am a Master's student at Tsinghua Shenzhen International Graduate School, Tsin
 
 My current research interests include:
 
-- Computational Pathology and Whole-Slide Image Analysis
-- AI Agents and Agentic Systems
+- Digital Pathology
+- AI Agents
 
 ### Academic Information
 
