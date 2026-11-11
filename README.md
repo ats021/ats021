@@ -6,9 +6,8 @@ I am a Master's student at Tsinghua Shenzhen International Graduate School, Tsin
 
 My current research interests include:
 
-- Large Language Models (LLMs)
+- Computational Pathology and Whole-Slide Image Analysis
 - AI Agents and Agentic Systems
-- LLM Post-training and Reinforcement Learning
 
 ### Academic Information
 
